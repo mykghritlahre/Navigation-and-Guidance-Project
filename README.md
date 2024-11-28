@@ -79,4 +79,4 @@ This section appears to handle state-space modeling and Linear Quadratic Regulat
 - The Python (`guidancesolver.py`) and MATLAB code address different aspects of control systems. While the Python script focuses on missile guidance and trajectory plotting, the MATLAB script delves into state-space analysis and LQR design.
 - Both pieces of code highlight practical control system applications, such as navigation and stabilization.
 
-If you're looking for integration, possible avenues include using MATLAB's control system outputs as inputs for Python's missile simulation or vice versa, enabling a more comprehensive control and simulation pipeline.
+
